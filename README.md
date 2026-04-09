@@ -49,14 +49,6 @@ install.packages("ggplot2")
 
 4. Run the script — plots will save to the `plots/` folder
 
-## Status
-
-- [x] Data sourced
-- [ ] Exploratory data analysis
-- [ ] Linear model fitting
-- [ ] Visualization
-- [ ] Model diagnostics
-
 ## License
 
 This project is licensed under the MIT License.
